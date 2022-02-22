@@ -1,0 +1,14 @@
+.table {
+}
+
+.table-data {
+  min-width: 80px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.table-header {
+  border: 2px solid black;
+  min-width: 60px;
+  background-color: lightgrey;
+}

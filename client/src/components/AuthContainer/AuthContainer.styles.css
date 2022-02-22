@@ -1,0 +1,11 @@
+.auth-container {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.error-message {
+  color: red;
+  font-weight: bold;
+  font-size: 1rem;
+}

@@ -1,0 +1,23 @@
+.App {
+  display: grid;
+  place-items: center;
+  gap: 25px;
+}
+
+.logout-container {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.logout-box {
+  text-align: center;
+  margin: 10px;
+}
+
+.logout {
+  cursor: pointer;
+  transition: all 1s ease-out;
+  margin: 5px;
+  font-weight: bold;
+}
